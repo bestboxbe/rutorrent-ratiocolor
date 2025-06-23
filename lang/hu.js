@@ -1,9 +1,15 @@
+theUILang.ratiocolorName = "Ratiocolor";
+theUILang.ratiocolorLengthError = "Ratiocolor: A szintek és színek számának meg kell egyeznie";
+theUILang.ratiocolorLevel0 = "Ratiocolor: Az első szintnek 0-nak kell lennie";
+theUILang.ratiocolorLegend = "Arány színezés beállításai";
+theUILang.ratiocolorSettings = "Arány színezés";
+theUILang.ratiocolorMode = "Színezési mód";
+theUILang.ratiocolorBackground = "Háttérszín";
+theUILang.ratiocolorFont = "Betűszín";
+theUILang.ratiocolorContrast = "Kontrasztos szöveg használata";
+theUILang.ratiocolorLevel = "Szint";
+theUILang.ratiocolorColor = "Szín";
+theUILang.ratiocolorAddLevel = "Hozzáadás";
+theUILang.ratiocolorDeleteLevel = "Szint törlése";
 
- 
- theUILang.ratiocolorName = "Ratiocolor";
- theUILang.ratiocolorColors = "Colors in hex sperated by ',' (Format: 0000ff,ff0000,...)";
- theUILang.ratiocolorLevels = "Levels seperated by ','. Must start with 0 (Format: 0,0.5,1,...)";
- theUILang.ratiocolorLengthError = "Ratiocolor: There must be the same numbers of levels and colors";
- theUILang.ratiocolorLevel0 = "Ratiocolor: The first level must be 0";
- 
- thePlugins.get("ratiocolor").langLoaded();
+thePlugins.get("ratiocolor").langLoaded();

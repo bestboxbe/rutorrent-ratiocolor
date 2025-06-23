@@ -1,4 +1,7 @@
 plugin.description: Change color of ratio column depending on ratio
-plugin.author: Gyran
-plugin.version: 0.5
-plugin.help: http://forums.rutorrent.org/index.php?topic=929.0
+plugin.author: Gyran, BestBox
+plugin.version: 1.0
+plugin.runlevel: 14
+plugin.help: https://github.com/bestboxbe
+php.extensions.error: json
+rtorrent.remote: error
